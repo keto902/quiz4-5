@@ -1,4 +1,3 @@
-
 # Student Data Management
 
 ## პროექტის აღწერა
